@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**ShafiyaNaaz27/ShafiyaNaaz27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### Hi, I'm Shafiya!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+📊 Skilled in Python, SQL, Power BI, and Excel for data analytics
+🤖 Exploring AI Agent Development & Machine Learning
+🌍 Open to collaborations on end-to-end data/AI projects
+✍️ I also write about data, AI, and projects on Substack
+
+💼 Connect with me on LinkedIn
+
+📧 Reach me at shafiyanaazshaikh@gmail.com
