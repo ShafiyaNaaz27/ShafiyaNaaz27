@@ -8,8 +8,10 @@
 🔹 Interested in building dashboards, reports, and web apps that make data accessible<br/>
 🔹 Focused on creating solutions that improve efficiency, support decision-making, and enable growth<br/>
 
+
 🌱 Currently expanding my skills in data engineering concepts and end-to-end project development<br/>
 🤝 Open to collaborating on data analytics, visualization, and real-world problem-solving projects<br/>
+✍️ I also write about data on [substack](https://substack.com/@shafiyanaaz?)
 
 
 ## 🌐 Socials:
