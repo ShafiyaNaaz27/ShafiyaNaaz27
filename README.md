@@ -11,7 +11,6 @@
 
 🌱 Currently expanding my skills in data engineering concepts and end-to-end project development<br/>
 🤝 Open to collaborating on data analytics, visualization, and real-world problem-solving projects<br/>
-✍️ I also write about data on [substack](https://substack.com/@shafiyanaaz?)
 
 
 ## 🌐 Socials:
