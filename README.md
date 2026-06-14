@@ -13,7 +13,7 @@
 🤝 Open to collaborating on data analytics, visualization, and real-world problem-solving projects<br/>
 📩 Open to collaborations, projects, and professional opportunities.
 
-**Email:** [shafiyanaaz126@gmail.com](mailto:shafiyanaaz126@gmail.com)
+ **Email:** [shafiyanaaz126@gmail.com](mailto:shafiyanaaz126@gmail.com)
 
 
 
